@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\רותם מזוז\source\repos\System\System\Source.cpp(32,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\רותם מזוז\source\repos\System\System\Source.cpp(33,15): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\רותם מזוז\source\repos\System\System\Source.cpp(151,45): warning C4244: 'argument': conversion from 'std::streamsize' to 'unsigned int', possible loss of data
+C:\Users\רותם מזוז\source\repos\System\System\Source.cpp(153,41): warning C4244: 'argument': conversion from 'std::streamsize' to 'unsigned int', possible loss of data
+  System.vcxproj -> C:\Users\רותם מזוז\source\repos\System\Debug\System.exe
